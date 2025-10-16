@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.opendb
+
+# Build dirs
+Release/
+x64/
+x86/
+
+*.pdb
+*.exe
