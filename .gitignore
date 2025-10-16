@@ -21,7 +21,3 @@ x86/
 *.ipch
 *.exp
 
-# Binaries
-*.exe
-*.dll
-*.pch
